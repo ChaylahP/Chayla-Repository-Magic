@@ -105,13 +105,13 @@ SSH into the control node and follow the steps below:
 _TODO: Answer the following questions to fill in the blanks:_
 - _Which file is the playbook? 
 - Elk-Plyabook.yml 
-- 
+
 -  Where do you copy it?
 -  Ansible 
--  
+
 - _Which file do you update to make Ansible run the playbook on a specific machine? 
 - Elk-Playbook.yml file 
-- 
+
 - How do I specify which machine to install the ELK server on versus which to install Filebeat on?
 - Using the IPs to the respective servers 
 
