@@ -58,7 +58,7 @@ A summary of the access policies in place can be found in the table below.
 | Jump Box | Yes              | 10.0.0.1 10.0.0.2    
 | Web01    | No               | 20.53.198.188                    
 | Web-02   | No               | 20.53.198.188
-| Web03ELK   Yes                13.78.44.63
+| Web03ELK       Yes                    13.78.44.63
 
 
 ### Elk Configuration
